@@ -1,7 +1,7 @@
 We ran several experiments with different configurations of the deep net. We measured the accuracy over 
 different configurations and the results are the following. We 1000 iterations for the experiments.
 
-  Number of 		 Number of 			     Optimizer	    Activation			     Cost            Accuracy
+Number of 		 Number of 			     Optimizer	    Activation			     Cost            Accuracy
 Hidden Layers	 Hidden Layer neurons					         Function
 	1					      10				           Adam		   Relu + Softmax	       0.16-0.278           1
 														                      at the end	
